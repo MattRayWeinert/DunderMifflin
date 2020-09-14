@@ -13,3 +13,6 @@ and unique IDs' per item which were generated.
   <li>Simplistic exmaple of a Frontend interfacing with a Backend</li>
 </ul>
 
+https://user-images.githubusercontent.com/43066793/93096803-d21c5c00-f672-11ea-994a-d178beffbfb4.png
+https://user-images.githubusercontent.com/43066793/93096798-cfba0200-f672-11ea-8264-445e5f0c5f97.png
+https://user-images.githubusercontent.com/43066793/93096793-ce88d500-f672-11ea-8626-10b437996cdb.png
