@@ -14,5 +14,5 @@ and unique IDs' per item which were generated.
 </ul>
 
 <img width="803" alt="dundermifflinOpen" src="https://user-images.githubusercontent.com/43066793/93097174-3b9c6a80-f673-11ea-8442-7c4d4e7ba280.png">
-https://user-images.githubusercontent.com/43066793/93096798-cfba0200-f672-11ea-8264-445e5f0c5f97.png
-https://user-images.githubusercontent.com/43066793/93096793-ce88d500-f672-11ea-8626-10b437996cdb.png
+<img width="663" alt="dundermifflinFinishMessage" src="https://user-images.githubusercontent.com/43066793/93097233-4d7e0d80-f673-11ea-9c69-191882b1cb7e.png">
+<img width="817" alt="dundermifflinFinish" src="https://user-images.githubusercontent.com/43066793/93097241-4fe06780-f673-11ea-82e4-82a00c15e32b.png">
